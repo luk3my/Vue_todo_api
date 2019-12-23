@@ -13,10 +13,10 @@ export default {
     name: "Header"
 }
 
-
 </script>
 
 <style scoped>
+
   .header {
     background: #333;
     color: #fff;
@@ -28,4 +28,5 @@ export default {
     padding-right: 5px;
     text-decoration: none;
   }
+  
 </style>
